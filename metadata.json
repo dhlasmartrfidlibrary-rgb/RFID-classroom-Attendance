@@ -1,0 +1,6 @@
+{
+  "name": "RFID Classroom Attendance Teacher Dashboard",
+  "description": "Functional Teacher Dashboard for RFID Student Attendance System with Google Sheets database integration and classroom seating management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
